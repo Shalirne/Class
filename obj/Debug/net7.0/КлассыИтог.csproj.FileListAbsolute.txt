@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\КлассыИтог\bin\Debug\net7.0\КлассыИтог.exe
+C:\Users\1\source\repos\КлассыИтог\bin\Debug\net7.0\КлассыИтог.deps.json
+C:\Users\1\source\repos\КлассыИтог\bin\Debug\net7.0\КлассыИтог.runtimeconfig.json
+C:\Users\1\source\repos\КлассыИтог\bin\Debug\net7.0\КлассыИтог.dll
+C:\Users\1\source\repos\КлассыИтог\bin\Debug\net7.0\КлассыИтог.pdb
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.AssemblyInfo.cs
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.dll
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\refint\КлассыИтог.dll
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.pdb
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\КлассыИтог.genruntimeconfig.cache
+C:\Users\1\source\repos\КлассыИтог\obj\Debug\net7.0\ref\КлассыИтог.dll
